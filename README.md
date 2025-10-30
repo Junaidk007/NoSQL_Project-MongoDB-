@@ -1,4 +1,4 @@
-# 📘 MongoDB NoSQL Project – Educational Data Analysis
+# 📘 MongoDB NoSQL Project
 
 ### 🔍 Overview
 This project demonstrates practical use of **MongoDB**, a leading **NoSQL database**, to manage and analyze educational data involving students, faculty, courses, and activities.  
@@ -91,3 +91,14 @@ It covers a complete range of MongoDB operations — from **basic filtering and 
 ┣ 📄 NoSql-Project.docx
 ┣ 📄 Information.md # Project overview and documentation
 ┗ 📂 datasets/ # JSON files if included
+
+---
+
+## 👤 Author
+
+**Name:** Junaid Khan
+**Registration No.:** 1240258209  
+**Subject:** NO SQL and Dbaas 101
+**Course:** BCA (Data Science & AI)  
+**Institution:** *Babu Banarasi Das University*  
+**Submitted To:** *Mr. Ankit Verma*   
